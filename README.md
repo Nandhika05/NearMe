@@ -153,7 +153,8 @@ Execute the programs and publish them.
 </html>
 ```
 ## OUTPUT
-![map](https://github.com/Nandhika05/NearMe/assets/154419402/bc50c9d7-d6b5-4e6b-b5e2-b062ede10ebf)
+
+![Screenshot 2024-04-03 124105](https://github.com/Nandhika05/NearMe/assets/154419402/71bf3ce9-dcb4-42b2-9b94-37a69113dd79)
 
 ![Screenshot 2024-04-02 133049](https://github.com/Nandhika05/NearMe/assets/154419402/56a06b4b-685c-44b4-ab5f-19a99fad3f1f)
 
